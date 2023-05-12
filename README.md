@@ -3,6 +3,7 @@
 - 🌱 Estudando JavaScript
 
 <div>
+  <a href="https://github.com/guilhermeimoto">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeImoto&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
