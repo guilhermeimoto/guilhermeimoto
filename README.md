@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/guilhermeimoto">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeimoto&layout=compact&langs_count=16&theme=dark" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeimoto&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
   ##
