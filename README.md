@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Imoto.
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando HTML, CSS e JavaScript
 
 <div>
   <a href="https://github.com/guilhermeimoto">
